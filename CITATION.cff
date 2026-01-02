@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Azad
+    given-names: Kumar
+    affiliation: "Research Scholar, Physics"
+title: "Implementing a Transformer from Scratch: Educational Implementation"
+date-released: 2025-08-15
+version: 1.0.0
+type: software
+license: MIT
+url: "https://github.com/KrAzad0/Implementing-a-Transformer-from-Scratch"
+repository-code: "https://github.com/KrAzad0/Implementing-a-Transformer-from-Scratch"
+keywords:
+  - "transformer architecture"
+  - "deep learning"
+  - "attention mechanism"
+  - "neural networks"
+  - "NLP"
+abstract: "Educational implementation of the Transformer architecture from scratch using Jupyter notebooks, demonstrating self-attention, multi-head attention, and the complete transformer stack."
